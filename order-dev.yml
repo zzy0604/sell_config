@@ -16,5 +16,5 @@ spring:
 name: zhouzhenyi3
 env: dev
 product:
-  id: 123
-  name: apple3
+  id: 234
+  name: apple4
